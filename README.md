@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Developer. Musician. Creator
 ----------------------------
-Frontend Engineer with a passion for creating visually appealing and user-friendly<br>websites and applications. Strong experience in HTML, CSS, and JavaScript with a<br>focus on responsive and interactive interfaces using modern frameworks. Committed<br>to making a positive impact in web development and bringing value to a team
+Frontend Engineer with a passion for creating visually appealing and user-friendly<br>websites and applications. Strong experience in HTML, CSS, and JavaScript with a<br>focus on responsive and interactive interfaces using modern frameworks. Committed<br>to making a positive impact in web development and bringing value to my team
 
 * 🖥️  See my portfolio at [Darion-George](http://darion-george.vercel.app)
 * 🧠  I'm learning Angular and MongoDB
