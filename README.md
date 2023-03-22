@@ -1,9 +1,13 @@
-
-
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Darion George
+=====================================================================================================================================
 
 Developer. Musician. Creator
+----------------------------
+
+<a href="https://www.github.com/PKFireBarry" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/PKFireBarry?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
+# 💫 About Me:
+Frontend Engineer with a passion for creating visually appealing and user-friendly<br>websites and applications. Strong experience in HTML, CSS, and JavaScript with a<br>focus on responsive and interactive interfaces using modern frameworks. Committed<br>to making a positive impact in web development and bringing value to a team
 
 
 # 💫 About Me:
