@@ -1,7 +1,6 @@
 
 
 
-<div style="text-align: center;">
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Darion George
 =====================================================================================================================================
 
@@ -31,4 +30,4 @@ Frontend Engineer with a passion for creating visually appealing and user-friend
 [![](https://visitcount.itsvg.in/api?id=PKFireBarry&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</div>
+
