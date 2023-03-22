@@ -1,3 +1,7 @@
+
+
+
+<div style="text-align: center;">
 # 💫 About Me:
 Frontend Engineer with a passion for creating visually appealing and user-friendly<br>websites and applications. Strong experience in HTML, CSS, and JavaScript with a<br>focus on responsive and interactive interfaces using modern frameworks. Committed<br>to making a positive impact in web development and bringing value to a team
 
@@ -19,3 +23,4 @@ Frontend Engineer with a passion for creating visually appealing and user-friend
 [![](https://visitcount.itsvg.in/api?id=PKFireBarry&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
