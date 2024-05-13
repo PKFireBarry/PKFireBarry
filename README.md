@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Developer. Musician. Creator
 ----------------------------
-Frontend Engineer with a passion for creating visually appealing and user-friendly<br>websites and applications. Strong experience in HTML, CSS, and JavaScript with a<br>focus on responsive and interactive interfaces using modern frameworks. Committed<br>to making a positive impact in web development and bringing value to my team
+Frontend Engineer with a passion for creating visually appealing and user-friendly<br>websites and applications. Strong experience in HTML, CSS, and JavaScript with a<br>focus on responsive and interactive interfaces using modern frameworks like Next and Svelete. Committed<br>to making a positive impact in web development and bringing value to my team.
 
 * 🖥️  See my portfolio at [Darion-George](http://darion-george.vercel.app)
 * ⚡  I also write music under the name [Deep Voyage](https://open.spotify.com/artist/2P5bs8S76CjmQ4aKGoCVe2)
@@ -29,8 +29,6 @@ Frontend Engineer with a passion for creating visually appealing and user-friend
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-
-<a href="http://www.github.com/PKFireBarry"><img src="https://github-readme-stats.vercel.app/api?username=PKFireBarry&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=22c55e&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="My GitHub stats" /></a>
 
 [![](https://visitcount.itsvg.in/api?id=PKFireBarry&icon=5&color=12)](https://visitcount.itsvg.in)
 
